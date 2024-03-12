@@ -6,7 +6,7 @@
 詳細は各資料を参照してください。
 
 プロンプトエンジニアリングのテクニックは公開されている資料である程度学習できます。
-プロンプトエンジニアリングに関する情報弱者向けのコース・商材・書籍の購入を検討されている方はぜひこれらの資料に先に目を通してみてください。
+プロンプトエンジニアリングに関する（多くは情報弱者向けの）コース・商材・書籍の購入を検討されている方はぜひこれらの資料に先に目を通してみてください。
 
 ## コツ
 
@@ -43,7 +43,7 @@
 
 ## Google: Prompt design strategies
 
-[Prompt design strategies  |  Google AI for Developers](https://ai.google.dev/docs/prompt_best_practices): ガイド
+[Prompt design strategies  |  Google AI for Developers](https://ai.google.dev/docs/prompt_best_practices)
 
 > ### プロンプトデザイン戦略
 >
