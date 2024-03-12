@@ -208,7 +208,6 @@
 - Google: [Prompt Engineering for Generative AI  |  Machine Learning  |  Google for Developers](https://developers.google.com/machine-learning/resources/prompt-eng)
 - Anthropic: [Prompt engineering](https://docs.anthropic.com/claude/docs/prompt-engineering)
 - DAIR.AI: [Prompt Engineering Guide](https://www.promptingguide.ai/)
-- DAIR.AI: [Papers | Prompt Engineering Guide](https://www.promptingguide.ai/papers)
 
 ### サンプル集
 
@@ -218,3 +217,4 @@
 ### リンク集
 
 - OpenAI: [Related resources from around the web | OpenAI Cookbook](https://cookbook.openai.com/articles/related_resources)
+- DAIR.AI: [Papers | Prompt Engineering Guide](https://www.promptingguide.ai/papers)
