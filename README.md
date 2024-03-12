@@ -211,6 +211,7 @@
 
 ### サンプル集
 
+- OpenAI: [Examples - OpenAI API](https://platform.openai.com/examples)
 - Google: [Example Prompts, Code and Integrations  |  Google AI for Developers](https://ai.google.dev/examples?keywords=prompt)
 - Anthropic: [Prompt library](https://docs.anthropic.com/claude/prompt-library)
 
